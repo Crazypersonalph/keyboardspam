@@ -1,2 +1,2 @@
 # keyboardspam
-It spams why with your keyboard
+It spams your keyboard in python
