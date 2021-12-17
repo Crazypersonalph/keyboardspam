@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "keyboardspam", "keyboardspam\keyboardspam.pyproj", "{FF12F5F8-24B9-4961-A598-6729AA3EC7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF12F5F8-24B9-4961-A598-6729AA3EC7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF12F5F8-24B9-4961-A598-6729AA3EC7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF195CD-6320-488A-8694-3904B50231CE}
+	EndGlobalSection
+EndGlobal
